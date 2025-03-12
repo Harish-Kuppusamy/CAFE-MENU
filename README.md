@@ -16,5 +16,5 @@ A simple and visually appealing **Dynamic Café Menu** built using **HTML and CS
 ![Café Menu Preview](./Screenshot%202025-02-18%20105835.png)
 
 ## 🔧 Setup & Usage
-1. **Clone the repository**:
+1. **Clone the repository**:  https://github.com/Harish-Kuppusamy/CAFE-MENU.git
    
