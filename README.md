@@ -13,7 +13,7 @@ A simple and visually appealing **Dynamic Café Menu** built using **HTML and CS
 - **CSS3** for styling and responsiveness.
 
 ## 📸 Preview
-![Café Menu Preview](./) *(Add an image of your project here)*
+![Café Menu Preview](./https://github.com/Harish-Kuppusamy/CAFE-MENU/blob/main/Screenshot%202025-02-18%20105835.png) *(Add an image of your project here)*
 
 ## 🔧 Setup & Usage
 1. **Clone the repository**:
